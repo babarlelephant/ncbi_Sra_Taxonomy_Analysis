@@ -2,7 +2,7 @@
 
  (you may need: pip install requests)
 
-* I will produce two files: request1.txt and request2.txt 
+* It will produce two files: request1.txt and request2.txt 
 
 * With a free gmail account go into https://console.cloud.google.com/bigquery
 
@@ -14,7 +14,7 @@ run the request2 and click on save, as json on google drive, a box will appear s
 
 * change the 3 filenames at the beginning of parse_results.py
 
-  and 
+  and run 
   
   python parse_results.py
   
