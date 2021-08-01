@@ -5,7 +5,7 @@ bigNCBIbioprojectMetadataXmlFile = "bioproject.xml"
 
 
 
-#"C:\\Downloads\\bioproject.xml.bin"
+#bigNCBIbioprojectMetadataXmlFile =  "C:\\Downloads\\bioproject.xml.bin"
 
 import json
 
@@ -24,13 +24,17 @@ f.close()
 
 Acc_To_Bioproject=dict()
 BioprojectList=dict()
-f = open(request1resultName,"r")
+f = open(request1resultName,"r",encoding="utf-8")
 r = f.readline()
 while len(r)>0:
 	o = json.loads(r)
 	if not "bioproject" in o:
 		o.update({"bioproject":"NA"})
-	Acc_To_Bioproject.update({o["acc"]:[o["bioproject"],o["releasedate"].split(" ")[0]]})
+	if not "center_name" in o:
+		o.update({"center_name":""})
+	if not "assay_type" in o:
+		o.update({"assay_type":""})
+	Acc_To_Bioproject.update({o["acc"]:[o["bioproject"],o["releasedate"].split(" ")[0],o["assay_type"],o["center_name"]]})
 	BioprojectList.update({o["bioproject"]:1})
 	r = f.readline()
 f.close()
@@ -125,7 +129,7 @@ while len(r)>0:
 	
 g = open("RESULT.txt","w",encoding="utf-8")
 for a in ACC:
-	g.write("§ "+a+" "+Acc_To_Bioproject[a][1]+"\n")
+	g.write("$ "+a+"\t"+Acc_To_Bioproject[a][1]+"\t"+Acc_To_Bioproject[a][2]+"\t"+Acc_To_Bioproject[a][3]+"\n")
 	metadata = None
 	if not a in Acc_To_Bioproject:
 		print(a,"not in Acc_To_Bioproject")

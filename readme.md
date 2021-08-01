@@ -1,4 +1,4 @@
-THe goal is to dump from the ncbi sql database all the accessions of the runs containing some coronavirus reads. See results.txt
+The goal is to dump from the ncbi sql database all the accessions of the runs containing some coronavirus reads. See results.txt
 
 * python get_and_parse_taxons_and_create_requests.py
 

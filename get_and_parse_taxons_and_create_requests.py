@@ -38,7 +38,7 @@ f.close()
 
 
 f = open("request1.txt","w")
-f.write('SELECT acc,bioproject,releasedate FROM `nih-sra-datastore.sra.metadata` WHERE organism <> "Severe acute respiratory syndrome coronavirus 2" AND acc IN (SELECT acc FROM `nih-sra-datastore.sra_tax_analysis_tool.tax_analysis` WHERE name= "Coronaviridae")\n\n')
+f.write('SELECT acc,bioproject,releasedate,assay_type,center_name FROM `nih-sra-datastore.sra.metadata` WHERE organism <> "Severe acute respiratory syndrome coronavirus 2" AND acc IN (SELECT acc FROM `nih-sra-datastore.sra_tax_analysis_tool.tax_analysis` WHERE name= "Coronaviridae")\n\n')
 f.close()
 
 f = open("request2.txt","w")
