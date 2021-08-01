@@ -148,3 +148,4 @@ for a in ACC:
 		if t[1] in o:
 			g.write(t[0]+t[1]+"\t"+o[t[1]]+"\n")
 	#g.write(j+" "+json.dumps(ACC[j])+"\n")
+	
