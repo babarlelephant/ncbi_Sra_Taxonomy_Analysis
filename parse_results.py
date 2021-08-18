@@ -5,6 +5,7 @@ bigNCBIbioprojectMetadataXmlFile = "bioproject.xml"
 
 
 
+
 #bigNCBIbioprojectMetadataXmlFile =  "C:\\Downloads\\bioproject.xml.bin"
 
 import json
@@ -38,7 +39,6 @@ while len(r)>0:
 	BioprojectList.update({o["bioproject"]:1})
 	r = f.readline()
 f.close()
-
 if 1:
 	def prXML(r,o,isProjectDescr=0):
 		if r.tag == "ProjectDescr":
@@ -75,6 +75,8 @@ if 1:
 					quit()
 				r = f.readline()
 			acc = r.split('accession=\"')[1].split('"')[0]
+			if acc == "PRJNA526479":
+				print("il y est",acc,r)
 			C+=1
 			if C%1000 == 0 and 0:
 				print(acc)
@@ -92,13 +94,14 @@ if 1:
 				o = {}
 				prXML(root,o)
 				BioprojectList.update({acc:o})
-				if not "ProjectReleaseDate" in o:
+				if 0 and not "ProjectReleaseDate" in o:
 					h = open("lala.txt","w")
 					h.write("".join(s))
 					h.close()
 					h = open("lala2.txt","w")
 					h.write(json.dumps(o))
 					h.close()
+					print("fatal error")
 					quit()
 		r = f.readline()
 
@@ -129,11 +132,15 @@ while len(r)>0:
 	
 g = open("RESULT.txt","w",encoding="utf-8")
 for a in ACC:
-	g.write("$ "+a+"\t"+Acc_To_Bioproject[a][1]+"\t"+Acc_To_Bioproject[a][2]+"\t"+Acc_To_Bioproject[a][3]+"\n")
+	#print(a)
+	g.write("$ "+a)
+	
 	metadata = None
 	if not a in Acc_To_Bioproject:
 		print(a,"not in Acc_To_Bioproject")
+		g.write("\n")
 	else:
+		g.write("\t"+Acc_To_Bioproject[a][1]+"\t"+Acc_To_Bioproject[a][2]+"\t"+Acc_To_Bioproject[a][3]+"\n")
 		b = Acc_To_Bioproject[a][0]
 		if BioprojectList[b] == 1:
 			#print(a,b,"not bioprojects metadata")
