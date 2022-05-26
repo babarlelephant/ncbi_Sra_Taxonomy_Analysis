@@ -1,0 +1,1415 @@
+$ ERR348236   2013-10-16  Drosophila melanogaster  Tissue-specific ChIP-seq for RNA pol II and H2A.v in Drosophila melanogaster -  EMBL-EBI.
+	Orthopoxvirus	124
+		Monkeypox virus	124
+$ SRR6065686   2017-10-26  Calanus finmarchicus  WGS of Calanus finmarchicus -  Institute of Oceanology Polish Academy of Sciences.
+	Orthopoxvirus	272
+		Cowpox virus	8
+		Monkeypox virus	264
+$ SRR7362870   2018-09-30  Drosophila aldrichi  Genomic library for Dald with insert size of 800bp -  CSIRO.
+	Orthopoxvirus	40334
+		Cowpox virus	314
+		Ectromelia virus	10
+			Ectromelia virus Naval	10
+		Monkeypox virus	401
+$ ERR3011880   2019-01-02  Syzygium oleosum  Illumina NovaSeq 6000 paired end sequencing; Syzygium oleosum whole genome sequencing - 10x linked read sequencing -  UNIVERSITY OF NEW SOUTH WALES.
+	Orthopoxvirus	241
+		Monkeypox virus	237
+$ ERR3184373   2019-03-05  Heliconius melpomene rosina  Illumina HiSeq 2500 paired end sequencing -  UNIVERSITY OF CAMBRDGE.
+	Orthopoxvirus	101
+		Monkeypox virus	101
+$ ERR3184388   2019-03-05  Heliconius melpomene rosina  Illumina HiSeq 2500 paired end sequencing -  UNIVERSITY OF CAMBRDGE.
+	Orthopoxvirus	382
+		Monkeypox virus	382
+$ ERR3184380   2019-03-05  Heliconius melpomene rosina  Illumina HiSeq 2500 paired end sequencing -  UNIVERSITY OF CAMBRDGE.
+	Orthopoxvirus	330
+		Monkeypox virus	330
+$ ERR3184378   2019-03-05  Heliconius melpomene rosina  Illumina HiSeq 2500 paired end sequencing -  UNIVERSITY OF CAMBRDGE.
+	Orthopoxvirus	159
+		Monkeypox virus	159
+$ DRR088969   2019-03-11  Acipenser ruthenus x Huso huso  Illumina HiSeq 2500 paired end sequencing of SAMD00076185 -  TITECH.
+	Orthopoxvirus	162
+		Monkeypox virus	161
+$ DRR120472   2019-04-19  Schizosaccharomyces pombe  Illumina HiSeq 2500 sequencing of SAMD00097258 -  HOKU-SCI.
+	Orthopoxvirus	127
+		Monkeypox virus	106
+		Vaccinia virus	3
+$ DRR120470   2019-04-19  Schizosaccharomyces pombe  Illumina HiSeq 2500 sequencing of SAMD00097256 -  HOKU-SCI.
+	Orthopoxvirus	375
+		Monkeypox virus	325
+$ SRR9025759   2019-05-07  Oncorhynchus nerka  WGS of Sockeye Salmon: Pitt Lake Gynogen Fin -  Fisheries and Oceans Canada.
+	Orthopoxvirus	2554
+		Akhmeta virus	1
+		Cowpox virus	434
+		Monkeypox virus	1738
+		unclassified Orthopoxvirus	1
+$ SRR9025754   2019-05-07  Oncorhynchus nerka  WGS of Sockeye Salmon: Pitt Lake Gynogen Fin -  Fisheries and Oceans Canada.
+	Orthopoxvirus	2065
+		Cowpox virus	473
+		Monkeypox virus	1289
+		Skunkpox virus	3
+$ SRR9025755   2019-05-07  Oncorhynchus nerka  WGS of Sockeye Salmon: Pitt Lake Gynogen Fin -  Fisheries and Oceans Canada.
+	Orthopoxvirus	2269
+		Cowpox virus	459
+		Monkeypox virus	1465
+$ ERR3316135   2019-05-09  Rubus argutus  HiSeq X Ten paired end sequencing - 
+	Orthopoxvirus	365
+		Cowpox virus	37
+		Monkeypox virus	279
+$ ERR3316133   2019-05-09  Rubus argutus  HiSeq X Ten paired end sequencing - 
+	Orthopoxvirus	392
+		Cowpox virus	47
+		Monkeypox virus	294
+$ SRR9645028   2019-07-05  Oncorhynchus mykiss  RBCS from VHSV challenged rainbow trout -  Universidad Miguel Hernandez.
+	Orthopoxvirus	322
+		Monkeypox virus	322
+$ DRR055123   2019-07-08  Procambarus clarkii  Illumina HiSeq 2000 paired end sequencing of SAMD00046152 -  TOHOKUGL.
+	Orthopoxvirus	271
+		Cowpox virus	103
+		Monkeypox virus	116
+$ SRR9672765   2019-07-11  Mytilinidion resinicola  Mytilinidion resinicola CBS 304.34 Transcriptome -  JGI.
+	Orthopoxvirus	210
+		Monkeypox virus	210
+$ SRR9004630   2019-08-07  Zonotrichia albicollis  WGBS of white-throated sparrow: adult male brain -  Georgia Institute of Technology.
+	Orthopoxvirus	517
+		Akhmeta virus	1
+		Cowpox virus	80
+		Ectromelia virus	7
+			Ectromelia virus Naval	6
+		Monkeypox virus	157
+		unclassified Orthopoxvirus	1
+$ SRR9925337   2019-08-08  Macrosiphum rosae  WGS of Macrosiphum rosae -  Belarusian State University.
+	Orthopoxvirus	215
+		Cowpox virus	50
+		Ectromelia virus	54
+		Monkeypox virus	111
+$ SRR10017689   2019-08-26  Monkeypox virus  Other Sequencing of Monkeypox virus -  UMIGS.
+	Orthopoxvirus	15648
+		Cowpox virus	4
+		Monkeypox virus	14104
+		Raccoonpox virus	1
+		Taterapox virus	1
+		Vaccinia virus	3
+		Variola virus	5
+		Volepox virus	1
+		unclassified Orthopoxvirus	1
+			Alaskapox virus	1
+$ SRR10027401   2019-08-28  Monkeypox virus  Other Sequencing of Monkeypox virus -  UMIGS.
+	Orthopoxvirus	42632
+		Akhmeta virus	5
+		Camelpox virus	3
+		Cowpox virus	24
+		Monkeypox virus	37281
+			Monkeypox virus Zaire-96-I-16	1
+		Raccoonpox virus	2
+		Skunkpox virus	2
+		Taterapox virus	1
+		Vaccinia virus	9
+		Variola virus	3
+		unclassified Orthopoxvirus	8
+			Alaskapox virus	1
+$ SRR9309200   2019-08-31  Hymenochirus boettgeri  HiSeqX of Hymenochirus boettgeri: BJE3815 -  McMaster University.
+	Orthopoxvirus	181
+		Cowpox virus	16
+		Monkeypox virus	164
+$ SRR9309201   2019-08-31  Hymenochirus boettgeri  HiSeqX of Hymenochirus boettgeri: BJE3814 -  McMaster University.
+	Orthopoxvirus	152
+		Akhmeta virus	1
+		Cowpox virus	14
+		Monkeypox virus	137
+		unclassified Orthopoxvirus	1
+$ SRR9727673   2019-09-12  Mus musculus  GSM3577986: Hi-C WT Rescue; Mus musculus; OTHER -  GEO.
+	Orthopoxvirus	3239
+		Cowpox virus	124
+		Monkeypox virus	135
+		Vaccinia virus	28
+			Vaccinia virus GLV-1h68	28
+		Variola virus	3
+$ SRR10160967   2019-09-23  Suaeda fruticosa  Whole genome sequnce of halophyte Suaeda fruticosa and phylogenetic relationship with other plants -  CSIR-Central Salt and Marine Chemicals Research In.
+	Orthopoxvirus	622
+		Cowpox virus	105
+		Ectromelia virus	38
+			Ectromelia virus Naval	6
+		Monkeypox virus	402
+		Variola virus	4
+$ SRR10160966   2019-09-23  Suaeda monoica  Whole genome sequnce of halophyte Suaeda monoica and phylogenetic relationship with other plants -  CSIR-Central Salt and Marine Chemicals Research In.
+	Orthopoxvirus	287
+		Cowpox virus	104
+		Ectromelia virus	24
+			Ectromelia virus Naval	6
+		Monkeypox virus	130
+$ SRR9677582   2019-09-29  mine drainage metagenome  metagenome from Cabin Branch AMD limestone lined channel -  University of California Davis.
+	Orthopoxvirus	540
+		Cowpox virus	94
+		Ectromelia virus	9
+			Ectromelia virus Naval	9
+		Monkeypox virus	119
+$ SRR10230521   2019-10-04  Aspergillus affinis  Aspergillus affinis CBS 129190 Transcriptome -  JGI.
+	Orthopoxvirus	118
+		Monkeypox virus	118
+$ SRR5602378   2019-10-25  Homo sapiens  3327 -  Zhengzhou university.
+	Orthopoxvirus	1698
+		Monkeypox virus	900
+		Vaccinia virus	33
+			Vaccinia virus GLV-1h68	28
+$ SRR5602367   2019-10-25  Homo sapiens  9622N -  Zhengzhou university.
+	Orthopoxvirus	2109
+		Monkeypox virus	1066
+		Vaccinia virus	48
+			Vaccinia virus GLV-1h68	48
+$ SRR5602435   2019-10-25  Homo sapiens  3334 -  Zhengzhou university.
+	Orthopoxvirus	1695
+		Monkeypox virus	877
+		Vaccinia virus	23
+			Vaccinia virus GLV-1h68	23
+$ SRR5602380   2019-10-25  Homo sapiens  3326 -  Zhengzhou university.
+	Orthopoxvirus	1314
+		Monkeypox virus	680
+		Vaccinia virus	31
+			Vaccinia virus GLV-1h68	26
+$ SRR10376191   2019-10-31  Oryza sativa  Oryza sativa kitaake Internode Bisulfite Sequencing -  JGI.
+	Orthopoxvirus	249
+		Cowpox virus	20
+		Ectromelia virus	11
+			Ectromelia virus Naval	6
+		Monkeypox virus	107
+$ SRR10376187   2019-10-31  Oryza sativa  Oryza sativa kitaake Internode Bisulfite Sequencing -  JGI.
+	Orthopoxvirus	943
+		Cowpox virus	67
+		Ectromelia virus	76
+			Ectromelia virus Naval	57
+		Monkeypox virus	332
+$ SRR10394985   2019-11-06  Monkeypox virus  Monkeypox virus Israel 2018 -  Israel Institute for Biological Research.
+	Orthopoxvirus	1241
+			Orthopoxvirus Abatino	1
+		Akhmeta virus	1
+		Camelpox virus	1
+		Cowpox virus	5
+		Ectromelia virus	2
+		Monkeypox virus	943
+		Skunkpox virus	1
+		Vaccinia virus	1
+		Variola virus	2
+		unclassified Orthopoxvirus	2
+$ SRR10394986   2019-11-06  Monkeypox virus  Monkeypox virus Israel 2018 -  Israel Institute for Biological Research.
+	Orthopoxvirus	38982
+		Akhmeta virus	3
+		Cowpox virus	6
+		Ectromelia virus	1
+		Monkeypox virus	30143
+		Vaccinia virus	114
+		Variola virus	11
+		unclassified Orthopoxvirus	3
+$ SRR10513212   2019-11-23  Aspergillus fumigatiaffinis  Aspergillus fumigatiaffinis CBS 117186 Minimal Draft -  JGI.
+	Orthopoxvirus	243
+		Cowpox virus	48
+		Monkeypox virus	195
+$ SRR9313549   2019-12-01  Schizosaccharomyces pombe  GSM3895478: ChIP-seq of H3K9me2 in ssu72∆ cells; Schizosaccharomyces pombe; ChIP-Seq -  GEO.
+	Orthopoxvirus	552
+		Monkeypox virus	108
+$ SRR10033059   2019-12-27  Achatina immaculata  Genomic_Illumina-Seq of Achatina immaculata muscles -  Agricultural Genomics Institute at Shenzhen.
+	Orthopoxvirus	1088
+		Cowpox virus	29
+		Monkeypox virus	128
+$ SRR10068232   2020-01-01  Mus musculus  GSM4060319: PTBP1 iCLIP replicate 1; Mus musculus; OTHER -  GEO.
+	Orthopoxvirus	347
+		Monkeypox virus	142
+$ ERR3806943   2020-01-14  Mus musculus  HiSeq X Ten paired end sequencing -  DKFZ-EPIGENOMICS.
+	Orthopoxvirus	468
+		Akhmeta virus	1
+		Cowpox virus	108
+		Ectromelia virus	6
+			Ectromelia virus Naval	1
+		Monkeypox virus	110
+		Variola virus	20
+		unclassified Orthopoxvirus	1
+$ SRR10571409   2020-02-01  Acropora millepora  Whole genome resequencing of Acropora millepora: whole branch tissue -  Columbia.
+	Orthopoxvirus	396
+		Akhmeta virus	9
+		Cowpox virus	124
+		Ectromelia virus	4
+		Monkeypox virus	142
+		Variola virus	20
+		unclassified Orthopoxvirus	9
+$ SRR10758215   2020-02-01  Schizosaccharomyces pombe  Sequencing after Chromatin Immunoprecipitation of Iss1-HA using an flag-specific antibody -  National Institutes of Health.
+	Orthopoxvirus	688
+		Monkeypox virus	629
+$ SRR10758214   2020-02-01  Schizosaccharomyces pombe  Sequencing after Chromatin Immunoprecipitation of Iss1-HA using an flag-specific antibody -  National Institutes of Health.
+	Orthopoxvirus	1015
+		Cowpox virus	1
+		Monkeypox virus	911
+		Vaccinia virus	1
+			Vaccinia virus GLV-1h68	1
+$ SRR10571403   2020-02-01  Acropora millepora  Whole genome resequencing of Acropora millepora: whole branch tissue -  Columbia.
+	Orthopoxvirus	137
+		Cowpox virus	7
+		Ectromelia virus	1
+		Monkeypox virus	118
+		Variola virus	1
+$ ERR3285006   2020-02-04  Anguilla megastoma  Illumina HiSeq 2000 paired end sequencing; Eels and hybridization - 
+	Orthopoxvirus	235
+		Cowpox virus	88
+		Monkeypox virus	116
+$ ERR3285005   2020-02-04  Anguilla marmorata  Illumina HiSeq 2000 paired end sequencing; Eels and hybridization - 
+	Orthopoxvirus	296
+		Cowpox virus	76
+		Monkeypox virus	169
+$ SRR10802013   2020-02-17  Limnodynastes dumerilii  Genome sequencing of Limnodynastes dumerilii : Liver -  Kunming Institute of Zoology, Chinese Academy of S.
+	Orthopoxvirus	284
+		Cowpox virus	13
+		Monkeypox virus	265
+$ SRR10802018   2020-02-17  Limnodynastes dumerilii  Genome sequencing of Limnodynastes dumerilii : Liver -  Kunming Institute of Zoology, Chinese Academy of S.
+	Orthopoxvirus	251
+		Cowpox virus	12
+		Monkeypox virus	238
+$ SRR10802012   2020-02-17  Limnodynastes dumerilii  Genome sequencing of Limnodynastes dumerilii : Liver -  Kunming Institute of Zoology, Chinese Academy of S.
+	Orthopoxvirus	176
+		Cowpox virus	6
+		Monkeypox virus	166
+$ SRR10802017   2020-02-17  Limnodynastes dumerilii  Genome sequencing of Limnodynastes dumerilii : Liver -  Kunming Institute of Zoology, Chinese Academy of S.
+	Orthopoxvirus	142
+		Monkeypox virus	142
+$ SRR10802019   2020-02-17  Limnodynastes dumerilii  Genome sequencing of Limnodynastes dumerilii : Liver -  Kunming Institute of Zoology, Chinese Academy of S.
+	Orthopoxvirus	268
+		Cowpox virus	10
+		Monkeypox virus	257
+$ SRR11140632   2020-02-22  Homo sapiens  GSM4331010: PRF_MPRA_stopvector; Homo sapiens; OTHER -  GEO.
+	Orthopoxvirus	27609
+		Akhmeta virus	1
+		Camelpox virus	61
+		Cowpox virus	1580
+		Ectromelia virus	36
+		Monkeypox virus	10494
+		Raccoonpox virus	536
+		Taterapox virus	1114
+		Vaccinia virus	201
+			Buffalopox virus	4
+		Variola virus	2089
+		unclassified Orthopoxvirus	1
+$ SRR11096167   2020-02-26  Homo sapiens  VirCapSeq for virus detection of infant CSF:Homo sapiens -  Pennsylvania State University College of Medicine.
+	Orthopoxvirus	153
+		Monkeypox virus	153
+$ SRR11096170   2020-02-26  Homo sapiens  VirCapSeq for virus detection of infant CSF:Homo sapiens -  Pennsylvania State University College of Medicine.
+	Orthopoxvirus	112
+		Monkeypox virus	112
+$ ERR3485793   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	1896175
+		Abatino macacapox virus	23
+			Orthopoxvirus Abatino	23
+		Akhmeta virus	158
+		Camelpox virus	75
+			Camelpox virus CMS	3
+		Cowpox virus	824
+		Ectromelia virus	93
+			Ectromelia virus Naval	4
+		Monkeypox virus	1614705
+			Monkeypox virus (strain Sierra Leone 70-0266)	51
+			Monkeypox virus Zaire-96-I-16	45
+		Raccoonpox virus	37
+		Skunkpox virus	48
+		Taterapox virus	29
+		Vaccinia virus	855
+			Buffalopox virus	24
+			Horsepox virus	27
+			Vaccinia virus Ankara	3
+			Vaccinia virus Copenhagen	4
+			Vaccinia virus Tian Tan	7
+		Variola virus	319
+		Volepox virus	33
+		unclassified Orthopoxvirus	148
+			Alaskapox virus	106
+			Orthopoxvirus sp.	2
+$ ERR3485800   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	986515
+		Abatino macacapox virus	9
+			Orthopoxvirus Abatino	9
+		Akhmeta virus	45
+		Camelpox virus	34
+		Cowpox virus	288
+			Cowpox virus (strain Hamburg-1985)	1
+		Ectromelia virus	22
+			Ectromelia virus Naval	2
+		Monkeypox virus	875802
+			Monkeypox virus (strain Sierra Leone 70-0266)	1
+			Monkeypox virus Zaire-96-I-16	38
+		Raccoonpox virus	15
+		Skunkpox virus	10
+		Taterapox virus	13
+		Vaccinia virus	194
+			Buffalopox virus	5
+			Horsepox virus	8
+			Vaccinia virus Copenhagen	1
+			Vaccinia virus Tian Tan	1
+			Vaccinia virus WAU86/88-1	1
+		Variola virus	106
+		Volepox virus	6
+		unclassified Orthopoxvirus	45
+			Alaskapox virus	24
+			Orthopoxvirus sp.	1
+$ ERR3485796   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	250762
+		Abatino macacapox virus	14
+			Orthopoxvirus Abatino	14
+		Akhmeta virus	27
+		Camelpox virus	40
+		Cowpox virus	233
+		Ectromelia virus	24
+		Monkeypox virus	206938
+			Monkeypox virus (strain Sierra Leone 70-0266)	1
+			Monkeypox virus Zaire-96-I-16	8
+		Raccoonpox virus	4
+		Skunkpox virus	16
+		Taterapox virus	11
+		Vaccinia virus	202
+			Buffalopox virus	10
+			Horsepox virus	5
+			Vaccinia virus Ankara	1
+			Vaccinia virus Copenhagen	2
+			Vaccinia virus Tian Tan	1
+		Variola virus	120
+		Volepox virus	7
+		unclassified Orthopoxvirus	29
+			Alaskapox virus	22
+$ ERR3485794   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	492239
+		Abatino macacapox virus	4
+			Orthopoxvirus Abatino	4
+		Akhmeta virus	38
+		Camelpox virus	23
+			Camelpox virus M-96	2
+		Cowpox virus	233
+		Ectromelia virus	35
+		Monkeypox virus	423978
+			Monkeypox virus (strain Sierra Leone 70-0266)	11
+			Monkeypox virus Zaire-96-I-16	6
+		Raccoonpox virus	6
+		Skunkpox virus	17
+		Taterapox virus	8
+		Vaccinia virus	193
+			Buffalopox virus	5
+			Horsepox virus	1
+			Vaccinia virus Ankara	1
+			Vaccinia virus Copenhagen	1
+		Variola virus	126
+		Volepox virus	8
+		unclassified Orthopoxvirus	35
+			Alaskapox virus	22
+$ ERR3485801   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	1204231
+		Abatino macacapox virus	19
+			Orthopoxvirus Abatino	19
+		Akhmeta virus	68
+		Camelpox virus	38
+		Cowpox virus	367
+		Ectromelia virus	42
+		Monkeypox virus	947393
+			Monkeypox virus Zaire-96-I-16	8
+		Raccoonpox virus	8
+		Skunkpox virus	25
+		Taterapox virus	15
+		Vaccinia virus	245
+			Buffalopox virus	8
+			Horsepox virus	5
+			Vaccinia virus Ankara	2
+			Vaccinia virus Copenhagen	3
+			Vaccinia virus Tian Tan	5
+		Variola virus	156
+		Volepox virus	14
+		unclassified Orthopoxvirus	29
+			Alaskapox virus	17
+			Orthopoxvirus sp.	1
+$ ERR3485789   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	2135014
+		Abatino macacapox virus	30
+			Orthopoxvirus Abatino	30
+		Akhmeta virus	173
+		Camelpox virus	127
+			Camelpox virus CMS	1
+		Cowpox virus	973
+		Ectromelia virus	101
+			Ectromelia virus Naval	3
+		Monkeypox virus	1843682
+			Monkeypox virus (strain Sierra Leone 70-0266)	56
+			Monkeypox virus Zaire-96-I-16	29
+		Raccoonpox virus	36
+		Skunkpox virus	50
+		Taterapox virus	40
+		Vaccinia virus	882
+			Buffalopox virus	31
+			Horsepox virus	27
+			Vaccinia virus Ankara	3
+			Vaccinia virus Copenhagen	3
+			Vaccinia virus Tian Tan	3
+		Variola virus	375
+		Volepox virus	38
+		unclassified Orthopoxvirus	157
+			Alaskapox virus	106
+			Orthopoxvirus sp.	1
+$ ERR3485787   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	24516
+		Akhmeta virus	5
+		Cowpox virus	26
+		Ectromelia virus	4
+		Monkeypox virus	20400
+		Raccoonpox virus	2
+		Skunkpox virus	1
+		Taterapox virus	1
+		Vaccinia virus	24
+			Horsepox virus	1
+		Variola virus	18
+$ ERR3485797   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	166836
+		Abatino macacapox virus	3
+			Orthopoxvirus Abatino	3
+		Akhmeta virus	14
+		Camelpox virus	13
+		Cowpox virus	77
+		Ectromelia virus	8
+			Ectromelia virus Naval	1
+		Monkeypox virus	144678
+			Monkeypox virus Zaire-96-I-16	1
+		Raccoonpox virus	5
+		Taterapox virus	2
+		Vaccinia virus	54
+			Buffalopox virus	8
+			Horsepox virus	2
+			Vaccinia virus Copenhagen	1
+		Variola virus	17
+		Volepox virus	4
+		unclassified Orthopoxvirus	14
+			Alaskapox virus	10
+$ ERR3485786   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	20695
+		Abatino macacapox virus	1
+			Orthopoxvirus Abatino	1
+		Akhmeta virus	4
+		Camelpox virus	1
+		Cowpox virus	7
+		Ectromelia virus	2
+		Monkeypox virus	17468
+		Vaccinia virus	9
+			Horsepox virus	1
+		Variola virus	5
+$ ERR3485799   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	163783
+		Abatino macacapox virus	1
+			Orthopoxvirus Abatino	1
+		Akhmeta virus	13
+		Camelpox virus	8
+		Cowpox virus	82
+			Cowpox virus (strain Hamburg-1985)	1
+		Ectromelia virus	6
+		Monkeypox virus	138255
+			Monkeypox virus Zaire-96-I-16	1
+		Raccoonpox virus	2
+		Skunkpox virus	5
+		Taterapox virus	1
+		Vaccinia virus	59
+			Buffalopox virus	3
+			Horsepox virus	1
+			Vaccinia virus Tian Tan	2
+		Variola virus	25
+		Volepox virus	2
+		unclassified Orthopoxvirus	7
+			Alaskapox virus	5
+$ ERR3485795   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	155392
+		Akhmeta virus	35
+		Camelpox virus	5
+		Cowpox virus	112
+		Ectromelia virus	8
+			Ectromelia virus Naval	1
+		Monkeypox virus	136755
+			Monkeypox virus Zaire-96-I-16	10
+		Raccoonpox virus	7
+		Skunkpox virus	13
+		Taterapox virus	6
+		Vaccinia virus	70
+			Horsepox virus	8
+		Variola virus	12
+		Volepox virus	1
+		unclassified Orthopoxvirus	32
+			Alaskapox virus	28
+$ ERR3485802   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	856386
+		Abatino macacapox virus	12
+			Orthopoxvirus Abatino	12
+		Akhmeta virus	41
+		Camelpox virus	21
+		Cowpox virus	211
+			Cowpox virus (strain Hamburg-1985)	1
+		Ectromelia virus	26
+		Monkeypox virus	670438
+			Monkeypox virus Zaire-96-I-16	3
+		Raccoonpox virus	6
+		Skunkpox virus	9
+		Taterapox virus	3
+		Vaccinia virus	142
+			Buffalopox virus	6
+			Horsepox virus	4
+			Vaccinia virus Ankara	1
+			Vaccinia virus Tian Tan	1
+		Variola virus	68
+		Volepox virus	9
+		unclassified Orthopoxvirus	24
+			Alaskapox virus	12
+			Orthopoxvirus sp.	1
+$ ERR3485790   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	922550
+		Abatino macacapox virus	11
+			Orthopoxvirus Abatino	11
+		Akhmeta virus	134
+		Camelpox virus	25
+		Cowpox virus	592
+		Ectromelia virus	67
+		Monkeypox virus	810491
+			Monkeypox virus Zaire-96-I-16	16
+		Raccoonpox virus	50
+		Skunkpox virus	63
+		Taterapox virus	19
+		Vaccinia virus	520
+			Buffalopox virus	13
+			Horsepox virus	11
+			Vaccinia virus Ankara	5
+			Vaccinia virus Tian Tan	1
+		Variola virus	266
+		Volepox virus	11
+		unclassified Orthopoxvirus	69
+			Alaskapox virus	53
+$ ERR3485788   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	210329
+		Abatino macacapox virus	3
+			Orthopoxvirus Abatino	3
+		Akhmeta virus	61
+		Camelpox virus	27
+		Cowpox virus	152
+		Ectromelia virus	17
+		Monkeypox virus	179673
+			Monkeypox virus Zaire-96-I-16	1
+		Raccoonpox virus	9
+		Skunkpox virus	42
+		Taterapox virus	21
+		Vaccinia virus	238
+			Buffalopox virus	9
+			Horsepox virus	4
+			Vaccinia virus Ankara	3
+			Vaccinia virus Copenhagen	16
+		Variola virus	89
+		Volepox virus	6
+		unclassified Orthopoxvirus	26
+			Alaskapox virus	12
+$ ERR3485792   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	364425
+		Abatino macacapox virus	3
+			Orthopoxvirus Abatino	3
+		Akhmeta virus	23
+		Camelpox virus	11
+		Cowpox virus	156
+		Ectromelia virus	10
+		Monkeypox virus	317309
+			Monkeypox virus (strain Sierra Leone 70-0266)	12
+			Monkeypox virus Zaire-96-I-16	7
+		Raccoonpox virus	7
+		Skunkpox virus	11
+		Taterapox virus	2
+		Vaccinia virus	146
+			Buffalopox virus	6
+			Horsepox virus	1
+		Variola virus	64
+		Volepox virus	4
+		unclassified Orthopoxvirus	14
+			Alaskapox virus	8
+$ ERR3485798   2020-03-03  Monkeypox virus  Illumina MiniSeq paired end sequencing -  ROBERT KOCH INSTITUTE.
+	Orthopoxvirus	458200
+		Abatino macacapox virus	3
+			Orthopoxvirus Abatino	3
+		Akhmeta virus	29
+		Camelpox virus	19
+		Cowpox virus	154
+			Cowpox virus (strain Hamburg-1985)	1
+		Ectromelia virus	17
+		Monkeypox virus	400866
+			Monkeypox virus (strain Sierra Leone 70-0266)	1
+			Monkeypox virus Zaire-96-I-16	6
+		Raccoonpox virus	8
+		Skunkpox virus	3
+		Taterapox virus	6
+		Vaccinia virus	111
+			Buffalopox virus	4
+			Horsepox virus	4
+			Vaccinia virus Copenhagen	1
+			Vaccinia virus Tian Tan	1
+		Variola virus	59
+		Volepox virus	4
+		unclassified Orthopoxvirus	13
+			Alaskapox virus	9
+$ SRR11243941   2020-03-05  Eurytemora affinis  Pool-Seq of Eurytemora affinis: Louisville, Ohio River, KY -  University of Wisconsin - Madison.
+	Orthopoxvirus	196
+		Cowpox virus	30
+		Monkeypox virus	165
+		Variola virus	1
+$ SRR11243943   2020-03-05  Eurytemora affinis  Pool-Seq of Eurytemora affinis: Cocodie Bayou, Gulf of Mexico, LA -  University of Wisconsin - Madison.
+	Orthopoxvirus	218
+		Cowpox virus	28
+		Monkeypox virus	188
+		Variola virus	2
+$ SRR11243942   2020-03-05  Eurytemora affinis  Pool-Seq of Eurytemora affinis: Eufala Lake, Arkansas River, OK -  University of Wisconsin - Madison.
+	Orthopoxvirus	205
+		Cowpox virus	28
+		Monkeypox virus	174
+		Variola virus	3
+$ SRR11243938   2020-03-05  Eurytemora affinis  Pool-Seq of Eurytemora affinis: Taylor Bayou, Gulf of Mexico, TX -  University of Wisconsin - Madison.
+	Orthopoxvirus	240
+		Cowpox virus	25
+		Monkeypox virus	213
+		Variola virus	2
+$ SRR11243937   2020-03-05  Eurytemora affinis  Pool-Seq of Eurytemora affinis: Lake Texoma, Red River, OK -  University of Wisconsin - Madison.
+	Orthopoxvirus	199
+		Cowpox virus	16
+		Monkeypox virus	175
+		Variola virus	8
+$ SRR9853851   2020-03-31  Sylvia atricapilla  WGS of Sylvia atricapilla -  B10K Consortium.
+	Orthopoxvirus	633
+		Cowpox virus	49
+		Ectromelia virus	15
+		Monkeypox virus	111
+		Vaccinia virus	13
+			Vaccinia virus GLV-1h68	13
+		Variola virus	3
+$ SRR10442407   2020-04-03  Penium margaritaceum  Penium_5_7kb -  Cornell University.
+	Orthopoxvirus	10478
+		Akhmeta virus	54
+		Cowpox virus	439
+		Ectromelia virus	1
+		Monkeypox virus	905
+		unclassified Orthopoxvirus	54
+$ SRR10442406   2020-04-03  Penium margaritaceum  Penium_8_10kb -  Cornell University.
+	Orthopoxvirus	7906
+		Akhmeta virus	47
+		Cowpox virus	408
+		Monkeypox virus	634
+		unclassified Orthopoxvirus	47
+$ SRR10442408   2020-04-03  Penium margaritaceum  Penium_2_4kb -  Cornell University.
+	Orthopoxvirus	9318
+		Akhmeta virus	59
+		Cowpox virus	442
+		Monkeypox virus	860
+		unclassified Orthopoxvirus	59
+$ SRR11290063   2020-04-10  Mus musculus  GSM4407293: resting liver tissue from mouse2 WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	160
+		Monkeypox virus	105
+		Variola virus	54
+$ SRR11475076   2020-04-11  Pogonomyrmex californicus  WGS-HiSeq3000:P.californicus:haploid_males -  University of Muenster WWU.
+	Orthopoxvirus	177
+		Monkeypox virus	177
+$ SRR11582165   2020-04-21  subsurface metagenome  Metagenome of hot spring fluid or sediments, Biology Meets Subduction -  University of Tennessee.
+	Orthopoxvirus	150
+		Monkeypox virus	150
+$ ERR3274948   2020-05-01  metagenome  Illumina NovaSeq 6000 paired end sequencing -  SVERIGES LANTBRUKSUNIVERSITET.
+	Orthopoxvirus	108
+		Cowpox virus	1
+		Ectromelia virus	2
+		Monkeypox virus	105
+$ SRR10025483   2020-06-01  Mus musculus  GSM4048756: 18mo-10ppm-female-rep1.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	409
+		Cowpox virus	32
+		Ectromelia virus	1
+		Monkeypox virus	153
+		Vaccinia virus	1
+			Vaccinia virus GLV-1h68	1
+		Variola virus	12
+$ SRR10025398   2020-06-01  Mus musculus  GSM4048743: 6mo-10ppm-female-rep2.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	302
+		Cowpox virus	47
+		Monkeypox virus	140
+		Variola virus	2
+$ SRR10025325   2020-06-01  Mus musculus  GSM4048736: D22-10ppm-female-rep4.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	183
+		Cowpox virus	2
+		Ectromelia virus	1
+		Monkeypox virus	120
+$ SRR10025477   2020-06-01  Mus musculus  GSM4048753: 18mo-0ppm-female-rep1.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	413
+		Akhmeta virus	1
+		Cowpox virus	47
+		Ectromelia virus	1
+		Monkeypox virus	122
+		Vaccinia virus	6
+			Vaccinia virus GLV-1h68	6
+		Variola virus	8
+		unclassified Orthopoxvirus	1
+$ SRR10025479   2020-06-01  Mus musculus  GSM4048754: 18mo-0ppm-female-rep2.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	473
+		Cowpox virus	50
+		Monkeypox virus	165
+		Variola virus	10
+$ SRR10025485   2020-06-01  Mus musculus  GSM4048757: 18mo-10ppm-female-rep2.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	358
+		Akhmeta virus	1
+		Cowpox virus	35
+		Monkeypox virus	126
+		Variola virus	13
+		unclassified Orthopoxvirus	1
+$ SRR10025481   2020-06-01  Mus musculus  GSM4048755: 18mo-0ppm-female-rep3.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	271
+		Akhmeta virus	2
+		Cowpox virus	29
+		Monkeypox virus	105
+		Variola virus	2
+		unclassified Orthopoxvirus	2
+$ SRR10025456   2020-06-01  Mus musculus  GSM4048746: 6mo-10ppm-female-rep5.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	251
+		Cowpox virus	23
+		Monkeypox virus	105
+		Variola virus	12
+$ SRR10025371   2020-06-01  Mus musculus  GSM4048739: 6mo-0ppm-female-rep3.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	237
+		Cowpox virus	29
+		Monkeypox virus	101
+		Variola virus	6
+$ SRR10025362   2020-06-01  Mus musculus  GSM4048738: 6mo-0ppm-female-rep2.WGBS; Mus musculus; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	628
+		Cowpox virus	19
+		Monkeypox virus	350
+		Variola virus	2
+$ SRR9043698   2020-06-01  Aspergillus spinulosporus  Whole genome sequencing of Aspergillus spinulosporus 4060 -  Vanderbilt University.
+	Orthopoxvirus	125
+		Monkeypox virus	125
+$ SRR10528276   2020-06-08  Schizosaccharomyces pombe  GSM4190284: H3K9me2_wt_rep2; Schizosaccharomyces pombe; ChIP-Seq -  GEO.
+	Orthopoxvirus	149
+		Monkeypox virus	128
+$ SRR10528282   2020-06-08  Schizosaccharomyces pombe  GSM4190290: H3K9me3_wt_rep2; Schizosaccharomyces pombe; ChIP-Seq -  GEO.
+	Orthopoxvirus	251
+		Monkeypox virus	156
+$ SRR10528278   2020-06-08  Schizosaccharomyces pombe  GSM4190286: H3K9me2_grc3V70M_rep2; Schizosaccharomyces pombe; ChIP-Seq -  GEO.
+	Orthopoxvirus	199
+		Monkeypox virus	199
+$ SRR10528279   2020-06-08  Schizosaccharomyces pombe  GSM4190287: H3K9me2_dhp1-1_rep1; Schizosaccharomyces pombe; ChIP-Seq -  GEO.
+	Orthopoxvirus	248
+		Monkeypox virus	234
+$ SRR10528277   2020-06-08  Schizosaccharomyces pombe  GSM4190285: H3K9me2_grc3V70M_rep1; Schizosaccharomyces pombe; ChIP-Seq -  GEO.
+	Orthopoxvirus	396
+		Monkeypox virus	396
+$ SRR9599884   2020-07-01  Phacidium lacerum  Whole-genome sequencing of Phacidium lacerum -  University of New Hampshire.
+	Orthopoxvirus	169
+		Monkeypox virus	169
+$ SRR9590996   2020-07-24  Ascaphus truei  10X_genomics_Hum2 -  University of California, Berkeley.
+	Orthopoxvirus	166
+		Cowpox virus	9
+		Monkeypox virus	139
+$ SRR11818587   2020-08-06  Allium victorialis  RNA-seq of Allium victorialis -  The Institute of Vegetables and Flowers CAAS.
+	Orthopoxvirus	137
+		Monkeypox virus	137
+$ SRR11818591   2020-08-06  Allium listera  RNA-seq of Allium victorialis -  The Institute of Vegetables and Flowers CAAS.
+	Orthopoxvirus	202
+		Monkeypox virus	202
+$ SRR10133684   2020-08-10  Homo sapiens  GSM4082678: 222_W857C_girl_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	171
+		Monkeypox virus	171
+$ SRR10133754   2020-08-10  Homo sapiens  GSM4082748: 292_W1531C_boy_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	130
+		Monkeypox virus	130
+$ SRR10133787   2020-08-10  Homo sapiens  GSM4082781: 42_A59D_girl_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	104
+		Monkeypox virus	104
+$ SRR10133628   2020-08-10  Homo sapiens  GSM4082622: 132_W1507M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	120
+		Monkeypox virus	120
+$ SRR10133736   2020-08-10  Homo sapiens  GSM4082730: 271_W1149M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	195
+		Monkeypox virus	195
+$ SRR10133837   2020-08-10  Homo sapiens  GSM4082831: 81_W1579D_boy_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	141
+		Monkeypox virus	141
+$ SRR10133638   2020-08-10  Homo sapiens  GSM4082632: 135_A19D_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	128
+		Monkeypox virus	128
+$ SRR10133603   2020-08-10  Homo sapiens  GSM4082597: 121_W839F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	274
+		Cowpox virus	3
+		Monkeypox virus	271
+$ SRR10133782   2020-08-10  Homo sapiens  GSM4082776: 41_W845C_girl_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	150
+		Monkeypox virus	150
+$ SRR10133813   2020-08-10  Homo sapiens  GSM4082807: 61_E113D_boy_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	122
+		Monkeypox virus	122
+$ SRR10133767   2020-08-10  Homo sapiens  GSM4082761: 31_E95M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	122
+		Monkeypox virus	122
+$ SRR10133737   2020-08-10  Homo sapiens  GSM4082731: 272_W88F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	198
+		Monkeypox virus	198
+$ SRR10133575   2020-08-10  Homo sapiens  GSM4082569: 103_E98F_father_CTRL; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	115
+		Monkeypox virus	115
+$ SRR10133846   2020-08-10  Homo sapiens  GSM4082840: 83_W1719F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	186
+		Monkeypox virus	186
+$ SRR10133824   2020-08-10  Homo sapiens  GSM4082818: 71_W1365C_boy_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	196
+		Monkeypox virus	196
+$ SRR10133609   2020-08-10  Homo sapiens  GSM4082603: 123_W1387C_boy_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	220
+		Monkeypox virus	220
+$ SRR10133825   2020-08-10  Homo sapiens  GSM4082819: 71_W1365D_boy_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	107
+		Monkeypox virus	107
+$ SRR10133783   2020-08-10  Homo sapiens  GSM4082777: 41_W845D_girl_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	205
+		Monkeypox virus	205
+$ SRR10133572   2020-08-10  Homo sapiens  GSM4082566: 102_E54M_mother_CTRL; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	116
+		Monkeypox virus	116
+$ SRR10133732   2020-08-10  Homo sapiens  GSM4082726: 263_W1452F_father_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	101
+		Monkeypox virus	101
+$ SRR10133730   2020-08-10  Homo sapiens  GSM4082724: 262_W76M_mother_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	103
+		Monkeypox virus	103
+$ SRR10133739   2020-08-10  Homo sapiens  GSM4082733: 273_W104C_boy_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	147
+		Monkeypox virus	147
+$ SRR10133676   2020-08-10  Homo sapiens  GSM4082670: 213_W1694M_mother_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	214
+		Monkeypox virus	214
+$ SRR10133623   2020-08-10  Homo sapiens  GSM4082617: 131_W1191F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	107
+		Monkeypox virus	107
+$ SRR10133612   2020-08-10  Homo sapiens  GSM4082606: 123_W1387M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	131
+		Cowpox virus	1
+		Monkeypox virus	130
+$ SRR10133753   2020-08-10  Homo sapiens  GSM4082747: 291_W618M_mother_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	156
+		Monkeypox virus	156
+$ SRR10133647   2020-08-10  Homo sapiens  GSM4082641: 142_W774F_father_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	236
+		Monkeypox virus	236
+$ SRR10133646   2020-08-10  Homo sapiens  GSM4082640: 142_W774D_girl_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	278
+		Monkeypox virus	278
+$ SRR10133748   2020-08-10  Homo sapiens  GSM4082742: 282_W928C_boy_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	155
+		Monkeypox virus	155
+$ SRR10133731   2020-08-10  Homo sapiens  GSM4082725: 263_W1452C_boy_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	120
+		Monkeypox virus	120
+$ SRR10133704   2020-08-10  Homo sapiens  GSM4082698: 234_W200F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	117
+		Monkeypox virus	117
+$ SRR10133827   2020-08-10  Homo sapiens  GSM4082821: 71_W1365M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	125
+		Monkeypox virus	125
+$ SRR10133691   2020-08-10  Homo sapiens  GSM4082685: 23_W811D_girl_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	163
+		Monkeypox virus	163
+$ SRR10133741   2020-08-10  Homo sapiens  GSM4082735: 273_W104M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	199
+		Monkeypox virus	199
+$ SRR10133738   2020-08-10  Homo sapiens  GSM4082732: 272_W88M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	134
+		Monkeypox virus	134
+$ SRR10133788   2020-08-10  Homo sapiens  GSM4082782: 42_A59F_father_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	131
+		Monkeypox virus	131
+$ SRR10133849   2020-08-10  Homo sapiens  GSM4082843: 91_W871D_boy_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	106
+		Monkeypox virus	106
+$ SRR10133821   2020-08-10  Homo sapiens  GSM4082815: 63_W779D_boy_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	180
+		Monkeypox virus	180
+$ SRR10133606   2020-08-10  Homo sapiens  GSM4082600: 122_W1524D_boy_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	127
+		Monkeypox virus	127
+$ SRR10133625   2020-08-10  Homo sapiens  GSM4082619: 132_W1507C_boy_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	113
+		Monkeypox virus	113
+$ SRR10133774   2020-08-10  Homo sapiens  GSM4082768: 33_W1276F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	236
+		Monkeypox virus	236
+$ SRR10133604   2020-08-10  Homo sapiens  GSM4082598: 121_W839M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	102
+		Cowpox virus	1
+		Monkeypox virus	101
+$ SRR10133630   2020-08-10  Homo sapiens  GSM4082624: 133_W1636D_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	207
+		Monkeypox virus	207
+$ SRR10133692   2020-08-10  Homo sapiens  GSM4082686: 23_W811F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	104
+		Monkeypox virus	104
+$ SRR10133745   2020-08-10  Homo sapiens  GSM4082739: 281_W766C_boy_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	153
+		Monkeypox virus	153
+$ SRR10133605   2020-08-10  Homo sapiens  GSM4082599: 122_W1524C_girl_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	145
+		Monkeypox virus	145
+$ SRR10133687   2020-08-10  Homo sapiens  GSM4082681: 223_E32C_girl_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	186
+		Monkeypox virus	186
+$ SRR10133830   2020-08-10  Homo sapiens  GSM4082824: 72_W1733F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	140
+		Monkeypox virus	140
+$ SRR10133829   2020-08-10  Homo sapiens  GSM4082823: 72_W1733D_boy_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	220
+		Monkeypox virus	220
+$ SRR10133725   2020-08-10  Homo sapiens  GSM4082719: 261_E23C_boy_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	173
+		Monkeypox virus	173
+$ SRR10133673   2020-08-10  Homo sapiens  GSM4082667: 212_W81M_mother_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	124
+		Monkeypox virus	124
+$ SRR10133653   2020-08-10  Homo sapiens  GSM4082647: 2_BS20F_father_CTRL; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	105
+		Monkeypox virus	105
+$ SRR10133855   2020-08-10  Homo sapiens  GSM4082849: 92_A62M_mother_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	124
+		Monkeypox virus	124
+$ SRR10133744   2020-08-10  Homo sapiens  GSM4082738: 274_E35M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	145
+		Monkeypox virus	145
+$ SRR10133607   2020-08-10  Homo sapiens  GSM4082601: 122_W1524F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	216
+		Monkeypox virus	216
+$ SRR10133662   2020-08-10  Homo sapiens  GSM4082656: 203_A92F_father_CTRL; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	122
+		Monkeypox virus	122
+$ SRR10133828   2020-08-10  Homo sapiens  GSM4082822: 72_W1733C_boy_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	195
+		Monkeypox virus	195
+$ SRR10133695   2020-08-10  Homo sapiens  GSM4082689: 231_W808F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	106
+		Monkeypox virus	106
+$ SRR10133581   2020-08-10  Homo sapiens  GSM4082575: 111_E18C_girl_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	136
+		Monkeypox virus	136
+$ SRR10133637   2020-08-10  Homo sapiens  GSM4082631: 135_A19C_boy_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	319
+		Monkeypox virus	319
+$ SRR10133766   2020-08-10  Homo sapiens  GSM4082760: 31_E95F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	200
+		Monkeypox virus	200
+$ SRR10133740   2020-08-10  Homo sapiens  GSM4082734: 273_W104F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	228
+		Monkeypox virus	228
+$ SRR10133614   2020-08-10  Homo sapiens  GSM4082608: 124_W1458D_boy_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	134
+		Monkeypox virus	134
+$ SRR10133772   2020-08-10  Homo sapiens  GSM4082766: 33_W1276C_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	171
+		Monkeypox virus	171
+$ SRR10133735   2020-08-10  Homo sapiens  GSM4082729: 271_W1149F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	143
+		Monkeypox virus	143
+$ SRR10133851   2020-08-10  Homo sapiens  GSM4082845: 91_W871M_mother_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	107
+		Monkeypox virus	107
+$ SRR10133752   2020-08-10  Homo sapiens  GSM4082746: 291_W618F_father_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	225
+		Monkeypox virus	225
+$ SRR10133768   2020-08-10  Homo sapiens  GSM4082762: 32_W655C_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	143
+		Monkeypox virus	143
+$ SRR10133643   2020-08-10  Homo sapiens  GSM4082637: 141_E45F_father_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	137
+		Monkeypox virus	137
+$ SRR10133641   2020-08-10  Homo sapiens  GSM4082635: 141_E45C_girl_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	142
+		Monkeypox virus	142
+$ SRR10133697   2020-08-10  Homo sapiens  GSM4082691: 232_W924C_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	153
+		Monkeypox virus	153
+$ SRR10133747   2020-08-10  Homo sapiens  GSM4082741: 281_W766M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	143
+		Monkeypox virus	143
+$ SRR10133839   2020-08-10  Homo sapiens  GSM4082833: 81_W1579M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	125
+		Monkeypox virus	125
+$ SRR10133576   2020-08-10  Homo sapiens  GSM4082570: 103_E98M_mother_CTRL; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	106
+		Monkeypox virus	106
+$ SRR10133608   2020-08-10  Homo sapiens  GSM4082602: 122_W1524M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	121
+		Monkeypox virus	121
+$ SRR10133633   2020-08-10  Homo sapiens  GSM4082627: 134_E115C_boy_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	144
+		Monkeypox virus	144
+$ SRR10133729   2020-08-10  Homo sapiens  GSM4082723: 262_W76F_father_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	137
+		Monkeypox virus	137
+$ SRR10133818   2020-08-10  Homo sapiens  GSM4082812: 62_W58F_father_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	153
+		Monkeypox virus	153
+$ SRR10133573   2020-08-10  Homo sapiens  GSM4082567: 103_E98C_girl_CTRL; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	114
+		Monkeypox virus	114
+$ SRR10133627   2020-08-10  Homo sapiens  GSM4082621: 132_W1507F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	121
+		Monkeypox virus	121
+$ SRR10133610   2020-08-10  Homo sapiens  GSM4082604: 123_W1387D_girl_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	193
+		Monkeypox virus	193
+$ SRR10133677   2020-08-10  Homo sapiens  GSM4082671: 22_W1785C_girl_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	129
+		Monkeypox virus	129
+$ SRR10133843   2020-08-10  Homo sapiens  GSM4082837: 82_W1647M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	102
+		Monkeypox virus	102
+$ SRR10133642   2020-08-10  Homo sapiens  GSM4082636: 141_E45D_boy_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	111
+		Monkeypox virus	111
+$ SRR10133621   2020-08-10  Homo sapiens  GSM4082615: 131_W1191C_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	340
+		Monkeypox virus	340
+$ SRR10133705   2020-08-10  Homo sapiens  GSM4082699: 234_W200M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	127
+		Monkeypox virus	127
+$ SRR10133618   2020-08-10  Homo sapiens  GSM4082612: 13_E29D_girl_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	126
+		Monkeypox virus	126
+$ SRR10133639   2020-08-10  Homo sapiens  GSM4082633: 135_A19F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	148
+		Monkeypox virus	148
+$ SRR10133664   2020-08-10  Homo sapiens  GSM4082658: 21_A42C_girl_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	143
+		Monkeypox virus	143
+$ SRR10133750   2020-08-10  Homo sapiens  GSM4082744: 282_W928M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	246
+		Monkeypox virus	246
+$ SRR10133775   2020-08-10  Homo sapiens  GSM4082769: 33_W1276M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	102
+		Monkeypox virus	102
+$ SRR10133665   2020-08-10  Homo sapiens  GSM4082659: 21_A42D_girl_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	114
+		Monkeypox virus	114
+$ SRR10133831   2020-08-10  Homo sapiens  GSM4082825: 72_W1733M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	162
+		Monkeypox virus	162
+$ SRR10133613   2020-08-10  Homo sapiens  GSM4082607: 124_W1458C_girl_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	112
+		Monkeypox virus	112
+$ SRR10133636   2020-08-10  Homo sapiens  GSM4082630: 134_E115M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	337
+		Monkeypox virus	337
+$ SRR10133746   2020-08-10  Homo sapiens  GSM4082740: 281_W766F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	112
+		Monkeypox virus	112
+$ SRR10133841   2020-08-10  Homo sapiens  GSM4082835: 82_W1647D_boy_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	138
+		Monkeypox virus	138
+$ SRR10133696   2020-08-10  Homo sapiens  GSM4082690: 231_W808M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	112
+		Monkeypox virus	111
+$ SRR10133838   2020-08-10  Homo sapiens  GSM4082832: 81_W1579F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	123
+		Monkeypox virus	123
+$ SRR10133663   2020-08-10  Homo sapiens  GSM4082657: 203_A92M_mother_CTRL; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	126
+		Monkeypox virus	126
+$ SRR10133751   2020-08-10  Homo sapiens  GSM4082745: 291_W618C_boy_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	107
+		Monkeypox virus	107
+$ SRR10133836   2020-08-10  Homo sapiens  GSM4082830: 81_W1579C_boy_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	157
+		Monkeypox virus	157
+$ SRR10133847   2020-08-10  Homo sapiens  GSM4082841: 83_W1719M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	139
+		Monkeypox virus	139
+$ SRR10133683   2020-08-10  Homo sapiens  GSM4082677: 221_E14M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	102
+		Monkeypox virus	102
+$ SRR10133771   2020-08-10  Homo sapiens  GSM4082765: 32_W655M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	134
+		Monkeypox virus	134
+$ SRR10133764   2020-08-10  Homo sapiens  GSM4082758: 31_E95C_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	150
+		Monkeypox virus	150
+$ SRR10133622   2020-08-10  Homo sapiens  GSM4082616: 131_W1191D_boy_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	215
+		Monkeypox virus	215
+$ SRR10133765   2020-08-10  Homo sapiens  GSM4082759: 31_E95D_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	193
+		Monkeypox virus	193
+$ SRR10133667   2020-08-10  Homo sapiens  GSM4082661: 21_A42M_mother_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	191
+		Monkeypox virus	191
+$ SRR10133761   2020-08-10  Homo sapiens  GSM4082755: 3_E8D_girl_CTRL; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	105
+		Monkeypox virus	105
+$ SRR10133726   2020-08-10  Homo sapiens  GSM4082720: 261_E23F_father_IVF-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	124
+		Monkeypox virus	124
+$ SRR10133635   2020-08-10  Homo sapiens  GSM4082629: 134_E115F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	191
+		Monkeypox virus	191
+$ SRR10133826   2020-08-10  Homo sapiens  GSM4082820: 71_W1365F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	188
+		Monkeypox virus	188
+$ SRR10133626   2020-08-10  Homo sapiens  GSM4082620: 132_W1507D_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	110
+		Monkeypox virus	110
+$ SRR10133773   2020-08-10  Homo sapiens  GSM4082767: 33_W1276D_girl_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	124
+		Monkeypox virus	124
+$ SRR10133715   2020-08-10  Homo sapiens  GSM4082709: 242_W39M_mother_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	101
+		Monkeypox virus	101
+$ SRR10133640   2020-08-10  Homo sapiens  GSM4082634: 135_A19M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	126
+		Monkeypox virus	126
+$ SRR10133624   2020-08-10  Homo sapiens  GSM4082618: 131_W1191M_mother_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	110
+		Monkeypox virus	110
+$ SRR10133785   2020-08-10  Homo sapiens  GSM4082779: 41_W845M_mother_ICSI-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	176
+		Monkeypox virus	176
+$ SRR10133749   2020-08-10  Homo sapiens  GSM4082743: 282_W928F_father_ICSI-ET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	133
+		Monkeypox virus	133
+$ SRR10133666   2020-08-10  Homo sapiens  GSM4082660: 21_A42F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	110
+		Monkeypox virus	110
+$ SRR10133611   2020-08-10  Homo sapiens  GSM4082605: 123_W1387F_father_IVF-FET; Homo sapiens; Bisulfite-Seq -  GEO.
+	Orthopoxvirus	120
+		Monkeypox virus	120
+$ SRR9841138   2020-08-21  Oncorhynchus gorbuscha  Illumina RAPID PE250 sequencing of odd-year Pink salmon -  Fisheries and Oceans Canada.
+	Orthopoxvirus	196
+		Cowpox virus	1
+		Monkeypox virus	116
+$ SRR9841137   2020-08-21  Oncorhynchus gorbuscha  Illumina RAPID PE250 sequencing of odd-year Pink salmon -  Fisheries and Oceans Canada.
+	Orthopoxvirus	194
+		Cowpox virus	2
+		Monkeypox virus	118
+$ SRR9841144   2020-08-21  Oncorhynchus gorbuscha  10X Chromium sequencing of odd-year Pink salmon -  Fisheries and Oceans Canada.
+	Orthopoxvirus	14882
+		Cowpox virus	207
+		Monkeypox virus	10413
+		Skunkpox virus	11
+$ SRR9841132   2020-08-21  Oncorhynchus keta  10X Chromium sequencing of odd-year Chum salmon -  Fisheries and Oceans Canada.
+	Orthopoxvirus	5646
+		Cowpox virus	875
+		Monkeypox virus	4480
+		Skunkpox virus	4
+$ ERR4468583   2020-08-22  Heliconius melpomene rosina  Illumina HiSeq 2500 paired end sequencing -  LMU Munich.
+	Orthopoxvirus	111
+		Monkeypox virus	111
+$ ERR4468615   2020-08-22  Heliconius melpomene rosina  Illumina HiSeq 2500 paired end sequencing -  LMU Munich.
+	Orthopoxvirus	103
+		Monkeypox virus	103
+$ ERR4468692   2020-08-22  Heliconius cydno chioneus x Heliconius melpomene rosina  Illumina NovaSeq 6000 paired end sequencing -  LMU Munich.
+	Orthopoxvirus	131
+		Monkeypox virus	131
+$ ERR4468690   2020-08-22  Heliconius cydno chioneus x Heliconius melpomene rosina  Illumina NovaSeq 6000 paired end sequencing -  LMU Munich.
+	Orthopoxvirus	137
+		Monkeypox virus	137
+$ ERR4468679   2020-08-22  Heliconius melpomene rosina  Illumina NovaSeq 6000 paired end sequencing -  LMU Munich.
+	Orthopoxvirus	101
+		Monkeypox virus	101
+$ ERR4468629   2020-08-22  Heliconius melpomene rosina  Illumina HiSeq 2500 paired end sequencing -  LMU Munich.
+	Orthopoxvirus	125
+		Monkeypox virus	125
+$ ERR4468691   2020-08-22  Heliconius cydno chioneus x Heliconius melpomene rosina  Illumina NovaSeq 6000 paired end sequencing -  LMU Munich.
+	Orthopoxvirus	144
+		Monkeypox virus	144
+$ SRR9070214   2020-09-22  Homo sapiens  Whole genome bisulfite sequencing of esophagus squamous cell carcinoma -  Beijing Institutes of Life Science, CAS.
+	Orthopoxvirus	324
+		Akhmeta virus	45
+		Cowpox virus	22
+		Monkeypox virus	102
+		Vaccinia virus	8
+			Vaccinia virus GLV-1h68	8
+		unclassified Orthopoxvirus	45
+$ SRR9070211   2020-09-22  Homo sapiens  Whole genome bisulfite sequencing of esophagus squamous cell carcinoma -  Beijing Institutes of Life Science, CAS.
+	Orthopoxvirus	308
+		Akhmeta virus	20
+		Cowpox virus	38
+		Monkeypox virus	105
+		Vaccinia virus	10
+			Vaccinia virus GLV-1h68	10
+		unclassified Orthopoxvirus	20
+$ SRR9070204   2020-09-22  Homo sapiens  Whole genome bisulfite sequencing of esophagus squamous cell carcinoma -  Beijing Institutes of Life Science, CAS.
+	Orthopoxvirus	326
+		Akhmeta virus	47
+		Cowpox virus	41
+		Monkeypox virus	111
+		Vaccinia virus	18
+			Vaccinia virus GLV-1h68	18
+		unclassified Orthopoxvirus	47
+$ SRR9070199   2020-09-22  Homo sapiens  Whole genome bisulfite sequencing of esophagus squamous cell carcinoma -  Beijing Institutes of Life Science, CAS.
+	Orthopoxvirus	414
+		Akhmeta virus	13
+		Cowpox virus	52
+		Monkeypox virus	191
+		Vaccinia virus	2
+			Vaccinia virus GLV-1h68	2
+		unclassified Orthopoxvirus	13
+$ SRR9070240   2020-09-22  Homo sapiens  Whole genome bisulfite sequencing of esophagus squamous cell carcinoma -  Beijing Institutes of Life Science, CAS.
+	Orthopoxvirus	287
+		Akhmeta virus	18
+		Cowpox virus	39
+		Monkeypox virus	112
+		Vaccinia virus	6
+			Vaccinia virus GLV-1h68	6
+		unclassified Orthopoxvirus	18
+$ SRR12229142   2020-10-12  Callionymus lyra  Hi-C library -  Senckenberg Nature Research Society.
+	Orthopoxvirus	293
+		Cowpox virus	8
+		Monkeypox virus	285
+$ SRR12229143   2020-10-12  Callionymus lyra  short-reads DNA -  Senckenberg Nature Research Society.
+	Orthopoxvirus	611
+		Cowpox virus	10
+		Monkeypox virus	601
+$ ERR4691640   2020-10-18  marine metagenome  Illumina HiSeq 2000 paired end sequencing; marine metagenome_Illumina_F - 
+	Orthopoxvirus	186
+		Cowpox virus	2
+		Monkeypox virus	183
+		Taterapox virus	1
+$ ERR4691660   2020-10-18  marine metagenome  Illumina HiSeq 2000 paired end sequencing; marine metagenome_Illumina_F - 
+	Orthopoxvirus	126
+		Cowpox virus	6
+		Monkeypox virus	110
+		Variola virus	10
+$ ERR4691629   2020-10-18  marine metagenome  Illumina HiSeq 2500 paired end sequencing; marine metagenome_Illumina_F - 
+	Orthopoxvirus	125
+		Akhmeta virus	1
+		Cowpox virus	3
+		Monkeypox virus	114
+		Skunkpox virus	1
+		Variola virus	6
+$ ERR4691791   2020-10-18  marine metagenome  Illumina HiSeq 2000 paired end sequencing; marine metagenome_Illumina_F - 
+	Orthopoxvirus	247
+		Akhmeta virus	3
+		Cowpox virus	1
+		Monkeypox virus	241
+		Variola virus	2
+$ ERR4691664   2020-10-18  marine metagenome  Illumina HiSeq 2000 paired end sequencing; marine metagenome_Illumina_F - 
+	Orthopoxvirus	122
+		Akhmeta virus	1
+		Cowpox virus	13
+		Monkeypox virus	106
+		Raccoonpox virus	1
+		Variola virus	1
+$ ERR4691641   2020-10-18  marine metagenome  Illumina HiSeq 2000 paired end sequencing; marine metagenome_Illumina_F - 
+	Orthopoxvirus	158
+		Akhmeta virus	1
+		Cowpox virus	2
+		Monkeypox virus	154
+		Raccoonpox virus	1
+$ ERR4691698   2020-10-19  marine metagenome  Illumina HiSeq 2000 paired end sequencing; marine metagenome_Illumina_F - 
+	Orthopoxvirus	146
+		Akhmeta virus	2
+		Cowpox virus	10
+		Monkeypox virus	104
+		Variola virus	30
+$ SRR11007044   2020-10-20  Mus musculus  GSM4293994: WT_6M_M_Mxd4_5; Mus musculus; OTHER -  GEO.
+	Orthopoxvirus	153
+		Monkeypox virus	153
+$ SRR10442436   2020-12-05  uncultured marine stramenopile  Single Cell Genomics of Heterotrophic Flagellates (Stramenopile) -  University of Exeter.
+	Orthopoxvirus	836
+		Cowpox virus	4
+		Monkeypox virus	830
+$ SRR10499215   2020-12-15  uncultured marine stramenopile  Stramenopile20 -  University of Exeter.
+	Orthopoxvirus	2815
+		Cowpox virus	4
+		Monkeypox virus	2805
+$ SRR10807532   2020-12-24  Limonius californicus  Shotgun sequencing of wireworm -  University of Idaho.
+	Orthopoxvirus	248
+		Monkeypox virus	196
+		Variola virus	1
+$ ERR5052388   2021-01-09  Heliconius cydno chioneus x Heliconius melpomene rosina  Illumina HiSeq 2500 paired end sequencing -  LMU Munich.
+	Orthopoxvirus	181
+		Monkeypox virus	181
+$ ERR5052383   2021-01-09  Heliconius cydno chioneus x Heliconius melpomene rosina  Illumina HiSeq 2500 paired end sequencing -  LMU Munich.
+	Orthopoxvirus	118
+		Monkeypox virus	118
+$ SRR13734443   2021-02-18  Limnodynastes fletcheri  Genome seq of Limnodynastes fletcheri -  Kent State University.
+	Orthopoxvirus	188
+		Cowpox virus	1
+		Monkeypox virus	187
+$ SRR11397593   2021-02-26  Hormaphis cornu  Genome assembly reads Hormaphis cornu: MP2 10X -  Howard Hughes Medical Institute at Janelia.
+	Orthopoxvirus	113
+		Monkeypox virus	113
+$ SRR14570025   2021-05-18  Oncorhynchus gorbuscha  Whole-genome shotgun sequencing of Oncorhynchus gorbuscha: Spawning male multiple tissues -  Fisheries and Oceans Canada.
+	Orthopoxvirus	734
+		Monkeypox virus	734
+$ SRR14570026   2021-05-18  Oncorhynchus gorbuscha  Whole-genome shotgun sequencing of Oncorhynchus gorbuscha: Spawning male multiple tissues -  Fisheries and Oceans Canada.
+	Orthopoxvirus	708
+		Monkeypox virus	708
+$ SRR14570028   2021-05-18  Oncorhynchus gorbuscha  Whole-genome shotgun sequencing of Oncorhynchus gorbuscha: Spawning male multiple tissues -  Fisheries and Oceans Canada.
+	Orthopoxvirus	765
+		Monkeypox virus	765
+$ SRR14570027   2021-05-18  Oncorhynchus gorbuscha  Whole-genome shotgun sequencing of Oncorhynchus gorbuscha: Spawning male multiple tissues -  Fisheries and Oceans Canada.
+	Orthopoxvirus	736
+		Monkeypox virus	736
+$ SRR12012177   2021-06-01  Globobulimina sp.  RNA-seq of Globobulimina sp. -  University of Geneva.
+	Orthopoxvirus	253
+		Monkeypox virus	253
+$ SRR16183179   2021-10-04  Rutilus rutilus  10X genomics linked reads -  The Max Planck Institute of Molecular Cell Biology.
+	Orthopoxvirus	384
+		Monkeypox virus	384
+$ SRR16232557   2021-10-07  Oncorhynchus mykiss  WGS of Oncorhynchus mykiss -  University of Victoria.
+	Orthopoxvirus	118
+		Monkeypox virus	118
+$ SRR16356890   2021-10-15  Caenorhabditis elegans  Whole genome sequencing for C. elegans wild isolates -  Northwestern University.
+	Orthopoxvirus	381
+		Monkeypox virus	381
+$ SRR16356891   2021-10-15  Caenorhabditis elegans  Whole genome sequencing for C. elegans wild isolates -  Northwestern University.
+	Orthopoxvirus	495
+		Monkeypox virus	495
+$ SRR16356894   2021-10-15  Caenorhabditis elegans  Whole genome sequencing for C. elegans wild isolates -  Northwestern University.
+	Orthopoxvirus	346
+		Monkeypox virus	346
+$ SRR16356893   2021-10-15  Caenorhabditis elegans  Whole genome sequencing for C. elegans wild isolates -  Northwestern University.
+	Orthopoxvirus	426
+		Monkeypox virus	426
+$ SRR16356895   2021-10-15  Caenorhabditis elegans  Whole genome sequencing for C. elegans wild isolates -  Northwestern University.
+	Orthopoxvirus	324
+		Monkeypox virus	324
+$ SRR16356889   2021-10-15  Caenorhabditis elegans  Whole genome sequencing for C. elegans wild isolates -  Northwestern University.
+	Orthopoxvirus	420
+		Monkeypox virus	420
+$ SRR16605526   2021-10-28  Noturus placidus  WGS of Noturus placidus: Americus -  University of Missouri.
+	Orthopoxvirus	103
+		Monkeypox virus	102
+		Skunkpox virus	1
+$ SRR16605525   2021-10-28  Noturus placidus  WGS of Noturus placidus: Cottonwood Falls -  University of Missouri.
+	Orthopoxvirus	269
+		Monkeypox virus	269
+$ SRR13642942   2021-12-01  Oncorhynchus mykiss  Poolseq of Kootenay Lake piscivores forward sequences -  University of British Columbia.
+	Orthopoxvirus	114
+		Monkeypox virus	114
+$ ERR6363289   2021-12-02  Steromphala cineraria  Illumina NovaSeq 6000 paired end sequencing -  WELLCOME SANGER INSTITUTE.
+	Orthopoxvirus	117
+		Monkeypox virus	117
+$ ERR7196329   2021-12-02  Sphaerophoria rueppellii  Illumina HiSeq 4000 paired end sequencing; Raw reads: Illumina_DNA_of_Sphaerophoria_rueppellii -  ROTHAMSTED RESEARCH.
+	Orthopoxvirus	194
+		Monkeypox virus	194
+$ ERR6688585   2021-12-02  Ichneumon xanthorius  Illumina NovaSeq 6000 paired end sequencing -  WELLCOME SANGER INSTITUTE.
+	Orthopoxvirus	169
+		Cowpox virus	9
+		Monkeypox virus	160
+$ ERR7619423   2021-12-10  Senegalia senegal  unspecified paired end sequencing; Senegalia senegal - target-enriched (Angiosperms353) -  Royal Botanical Gardens, Kew.
+	Orthopoxvirus	211
+		Monkeypox virus	211
+$ ERR7621393   2021-12-11  Spiraea japonica  unspecified paired end sequencing; Spiraea japonica - target-enriched (Angiosperms353) -  Royal Botanical Gardens, Kew.
+	Orthopoxvirus	479
+		Monkeypox virus	479
+$ SRR15245390   2022-02-01  Mus musculus  WBS-Seq of mus musculus: old male substantia nigra -  GIST.
+	Orthopoxvirus	160
+		Akhmeta virus	8
+		Monkeypox virus	110
+		Vaccinia virus	1
+		Variola virus	39
+$ SRR15245388   2022-02-01  Mus musculus  WBS-Seq of mus musculus: old male Hippocampus -  GIST.
+	Orthopoxvirus	172
+		Akhmeta virus	6
+		Monkeypox virus	113
+		Vaccinia virus	1
+		Variola virus	52
+$ SRR15245380   2022-02-01  Mus musculus  WBS-Seq of mus musculus: young male substantia nigra -  GIST.
+	Orthopoxvirus	139
+		Akhmeta virus	6
+		Monkeypox virus	105
+		Variola virus	28
+$ SRR15931769   2022-05-13  mixed culture metagenome  GSM5585250: Zymo microbial standard - native; mixed culture metagenome; OTHER -  GEO.
+	Orthopoxvirus	172
+		Monkeypox virus	172
