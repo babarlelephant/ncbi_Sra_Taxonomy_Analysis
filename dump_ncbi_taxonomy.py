@@ -14,7 +14,7 @@ excl=[]
 h = open("tax_analysis.txt","w")
 while len(r) > 0:
 	acc = r.split(",")[0]
-	
+	# some SRR accession
 		
 	if not os.path.exists("tax_"+acc+".json") and not acc in excl :
 		print(acc,"run_taxonomy")
